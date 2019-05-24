@@ -1,0 +1,16 @@
+PODS:
+  - IKEventSource (2.0.0)
+
+DEPENDENCIES:
+  - IKEventSource
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IKEventSource
+
+SPEC CHECKSUMS:
+  IKEventSource: 7377db25431c3baed1a09f572468528a77f77d2c
+
+PODFILE CHECKSUM: 7c56cb037bfecc3aab96ade7ffde28ee7e5ff845
+
+COCOAPODS: 1.7.0

@@ -1,0 +1,6 @@
+framework module Pods_TestSSE {
+  umbrella header "Pods-TestSSE-umbrella.h"
+
+  export *
+  module * { export * }
+}
